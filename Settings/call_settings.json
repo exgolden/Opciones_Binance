@@ -1,0 +1,12 @@
+{
+    "Precio": 243,
+    "#": 1,
+    "Premium": 23.6,
+    "Strike": 220,
+    "Multiplicador": 10.48,
+    "Participacion": 1,
+    "Contratos": 1,
+    "Lim. Inferior": 190,
+    "Lim. Superior": 250,
+    "Granularidad": 1
+}
